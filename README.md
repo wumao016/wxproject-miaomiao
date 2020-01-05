@@ -4,6 +4,7 @@
 
 - 首页：有搜索功能，可以搜索用户，点击查看及添加好友，还有点赞功能
 ![image](https://github.com/wumao016/wxproject-miaomiao/blob/master/img/shouye.png)
+--
 ![image](https://github.com/wumao016/wxproject-miaomiao/blob/master/img/sousuo.png)
 - 附近：可以查看附近开启共享位置用户
 ![image](https://github.com/wumao016/wxproject-miaomiao/blob/master/img/fujin.png)
